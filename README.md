@@ -66,6 +66,10 @@ Big-Theta refers to the tight bound of time or space complexity of an algorithm.
 - Big-O isn't everything. On paper merge sort is faster than quick sort, but in practice quick sort is superior.
 
 # <a id="data-structures"></a>Data Structures
+
+#### Useful Links
+- https://www.geeksforgeeks.org/data-structures/
+
 ### <a id="array"></a> Array
 #### Definition
 - Stores data elements based on an sequential, most commonly 0 based, index.
