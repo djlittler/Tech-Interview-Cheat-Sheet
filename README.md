@@ -69,6 +69,7 @@ Big-Theta refers to the tight bound of time or space complexity of an algorithm.
 
 #### Useful Links
 - https://www.geeksforgeeks.org/data-structures/
+- https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42
 
 ### <a id="array"></a> Array
 #### Definition
